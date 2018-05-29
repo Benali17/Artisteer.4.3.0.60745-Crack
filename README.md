@@ -1,11 +1,12 @@
 # Artisteer.4.3.0.60745-Crack
-> Cracked by Me
-> Please download it only from my gitub repo! |
-> https://github.com/h0nus
-> Pay attention to droppers and trojan from skiddies.
-> Enjoy WYSIWYG Web developing :)
-> The password is on my repo.
+> Cracked by Me <br>
+> Please download it only from my gitub repo! <br>
+> https://github.com/h0nus <br>
+> Pay attention to droppers and trojan from skiddies. <br>
+> Enjoy WYSIWYG Web developing :) <br>
 
+# Password
+**ybnDHK5Z_!dpq8wK**
 # TODO:
 - [x] Patched exe
 - [ ] Patcher for 4.x versions
