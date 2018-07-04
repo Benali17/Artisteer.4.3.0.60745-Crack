@@ -12,6 +12,7 @@ You can download crack [here](https://github.com/H0nus/Artisteer.4.3.0.60745-Cra
 # TODO:
 - [x] Patched exe
 - [ ] Patcher for 4.x versions
+- [ ] Make save works again
 
 Check hash and files on virustotal too!<br>
 **Setup:**
